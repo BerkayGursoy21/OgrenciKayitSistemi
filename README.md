@@ -1,8 +1,8 @@
 Java dili kullanarak yazılmış Öğrenci ve ders kayıt sistemi. kullanıcıdan alınan öğrenci bilgilerini ve ders bilgilerini CSV dosyasına kayıt eder.
 
-3 Adet Formumuz var;
+3 Adet Formumuz var; Anasayfa.form, derskayit.form,ogrencikayıt.form ve bu 3 forma bağlı 3 adet pencere.
 
-Anasayfa.form: kullanıcıya 2 adet seçenek sunar. Ders kaydet ve Öğrenci kaydet. İlgili butona tıklanınca seçilen pencere açılır.
+Anasayfa.form: Açılış ekranında kullanıcıya 2 adet seçenek sunar. Ders kaydet ve Öğrenci kaydet.Ders kaydet butonuna girildiğinde ders kayıt penceresine atar, Öğrenci kayıt butonuna girildiğinde öğrenci kayıt penceresine atar.
 
 derskayitformu: Kullanıcıdan alınan bilgiler (Ders adı, Ders dönemi, Ders kodu) CSV dosyasına kayıt eder. İşlem tamamlandıktan sonra sistem anasayfa ekranına otomatik atar
 
