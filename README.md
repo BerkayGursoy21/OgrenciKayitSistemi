@@ -1,4 +1,4 @@
-Java dili kullanarak yazılmış Öğrenci ve ders kayıt sistemi. kullanıcıdan alınan öğrenci bilgilerini ve ders bilgilerini CSV dosyasına kayıt eder.
+Java dili kullanarak yazılmış Öğrenci ve ders kayıt sistemi. kullanıcıdan alınan öğrenci bilgilerini ve ders bilgilerini CSV dosyasına kayıt eden Java uygulaması
 
 3 Adet Formumuz var; Anasayfa.form, derskayit.form,ogrencikayıt.form ve bu 3 forma bağlı 3 adet pencere.
 
